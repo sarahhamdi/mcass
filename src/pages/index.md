@@ -1,16 +1,17 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Supporting Muslim Children & Families Since 2004
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
-  title: Why Kaldi
+  title: What we do
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Muslim Children's Aid & Support Services (MCASS) is an Ontario-based registered non-for-profit corporation established August 2004. MCASS was granted charitable status by the Canadian Revenue Agency (CRA) in 2009.
+  blurb1: >
+    MCASS seeks to help empower children and the most vulnerable within the Muslim community while placing Islamic values at the forefront. We provide person-centred, culturally specific, and religiously appropriate programs and services which meet the specific needs of the diverse Muslim community. We advocate to place Muslim children in Muslim homes where they can flourish and preserve their identity.
+  blurb2: > 
+    In the growing age of secularism and Islamophobia, the narratives of the Muslim community are being unheard and the needs are being unmet. As a Muslim agency, we acknowledge the various challenges, oppressions, and discrimination faced by Muslims. Therefore, we provide opportunities through which we can proudly embrace our identity, and maintain our resiliency and solidarity.
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,

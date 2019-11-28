@@ -83,9 +83,7 @@ const Navbar = class extends React.Component {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <span className="icon">
-                  <img src={github} alt="Github" />
-                </span>
+              <a href='https://www.canadahelps.org/en/charities/muslim-childrens-aid-and-support-services/'>Donate via Canada Helps</a>
               </a>
             </div>
           </div>
